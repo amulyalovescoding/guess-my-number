@@ -14,4 +14,4 @@ This JavaScript number guessing game project's main goal is to code a game where
 - Conditionals
 - CSS
 - HTML
-- ![Confetti API] (https://github.com/catdad/canvas-confetti)
+- [Confetti API](https://github.com/catdad/canvas-confetti)
